@@ -63,10 +63,10 @@ I'm a **Full-Stack Software Developer** from Nepal 🇳🇵, passionate about cr
 
 | | Project | Stack | Status |
 |---|---|---|---|
-| 📝 | **Full-Stack Notes App** | Node.js · TypeScript · React Native · MongoDB | 🟡 In Progress |
-| 🔄 | Offline sync engine | clientId idempotency · last-write-wins by `updatedAt` | 🟡 In Progress |
-| ⚙️ | CI/CD pipeline | GitHub Actions · automated test & deploy | 🟢 Active |
-| 📖 | API documentation | Swagger / OpenAPI | 🟢 Active |
+| 📝 | **Full-Stack Notes App** | Node.js · TypeScript · React Native · MongoDB |
+| 🔄 | Offline sync engine | clientId idempotency · last-write-wins by `updatedAt` |
+| ⚙️ | CI/CD pipeline | GitHub Actions · automated test & deploy |
+| 📖 | API documentation | Swagger / OpenAPI |
 
 </div>
 
