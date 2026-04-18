@@ -6,9 +6,6 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=sudhir4500&color=7F77DD&style=flat-square&label=Profile+Views)](https://github.com/sudhir4500)
-[![GitHub followers](https://img.shields.io/github/followers/sudhir4500?style=flat-square&color=1D9E75&labelColor=0d1117&label=Followers)](https://github.com/sudhir4500)
-
 </div>
 
 ---
