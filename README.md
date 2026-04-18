@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:7F77DD,50:1D9E75,100:378ADD&height=220&section=header&text=Sudhir%20Sharma&fontSize=56&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Developer%20%7C%20Nepal%20%F0%9F%87%B3%F0%9F%87%B5&descAlignY=58&descSize=16)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1200&color=7F77DD&center=true&vCenter=true&width=600&height=40&lines=Building+scalable%2C+user-focused+applications+%F0%9F%9A%80;TypeScript+%7C+React+Native+%7C+Node.js+%7C+MongoDB;Offline-first+architecture+enthusiast;Always+learning+the+%22why%22+behind+every+decision)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1200&color=7F77DD&center=true&vCenter=true&width=600&height=40&lines=Building+scalable%2C+user-focused+applications+%F0%9F%9A%80;TypeScript+%7C+React+Native+%7C+Node.js+%7C+MongoDB;Offline-first+architecture;Always+learning+the+%22why%22+behind+every+decision;AI/ML+enthusiastic)](https://git.io/typing-svg)
 
 <br/>
 
