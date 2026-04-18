@@ -1,10 +1,13 @@
 <div align="center">
 
-<!-- Animated header using capsule-render -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sudhir%20Sharma&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Software%20Developer&descAlignY=55&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:7F77DD,50:1D9E75,100:378ADD&height=220&section=header&text=Sudhir%20Sharma&fontSize=56&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Developer%20%7C%20Nepal%20%F0%9F%87%B3%F0%9F%87%B5&descAlignY=58&descSize=16)
 
-<!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=7F77DD&center=true&vCenter=true&width=500&lines=Building+scalable%2C+user-focused+apps;TypeScript+%7C+React+Native+%7C+Node.js;Offline-first+architecture+enthusiast;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1200&color=7F77DD&center=true&vCenter=true&width=600&height=40&lines=Building+scalable%2C+user-focused+applications+%F0%9F%9A%80;TypeScript+%7C+React+Native+%7C+Node.js+%7C+MongoDB;Offline-first+architecture+enthusiast;Always+learning+the+%22why%22+behind+every+decision)](https://git.io/typing-svg)
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=sudhir4500&color=7F77DD&style=flat-square&label=Profile+Views)](https://github.com/sudhir4500)
+[![GitHub followers](https://img.shields.io/github/followers/sudhir4500?style=flat-square&color=1D9E75&labelColor=0d1117&label=Followers)](https://github.com/sudhir4500)
 
 </div>
 
@@ -12,16 +15,20 @@
 
 ### 👋 About Me
 
-I'm a **Full-Stack Software Developer** from Nepal 🇳🇵, dedicated to crafting scalable, user-focused web and mobile applications. I love building dynamic solutions that prioritize seamless user experiences — especially around **offline-first architecture**, clean REST APIs, and strongly-typed TypeScript code.
+I'm a **Full-Stack Software Developer** from Nepal 🇳🇵, passionate about crafting scalable, user-focused web and mobile applications. I love building dynamic solutions that prioritize seamless user experiences — especially around **offline-first architecture**, clean REST APIs, and strongly-typed TypeScript code.
 
-- 🌱 Deepening expertise in **TypeScript async/await patterns** and **GitHub Actions workflows**
-- 🧠 I learn by understanding the *why* behind every design decision — SOLID, DRY, YAGNI, KISS
+- 🔭 Building a **Full-Stack Notes App** — Node.js · TypeScript · React Native · MongoDB with offline sync
+- 🌱 Deepening expertise in **TypeScript async/await patterns** and **GitHub Actions CI/CD**
+- 🧠 I learn by understanding the *why* — SOLID, DRY, YAGNI, KISS guide every decision I make
 - 💬 Ask me about **React Native**, **REST API design**, or **offline-first sync strategies**
 - 📫 Reach me at **SudhirSharma4500@gmail.com**
+- ⚡ Fun fact: I enjoy connecting named principles to real code patterns
 
 ---
 
 ### 🛠 Tech Stack
+
+<div align="center">
 
 **Frontend & Mobile**
 
@@ -49,21 +56,43 @@ I'm a **Full-Stack Software Developer** from Nepal 🇳🇵, dedicated to crafti
 ![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+</div>
+
 ---
 
-
-### 📈 GitHub Stats
+### 🚀 Currently Building
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sudhir4500&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhir4500&layout=compact&theme=tokyonight&hide_border=true"/>
+| | Project | Stack | Status |
+|---|---|---|---|
+| 📝 | **Full-Stack Notes App** | Node.js · TypeScript · React Native · MongoDB | 🟡 In Progress |
+| 🔄 | Offline sync engine | clientId idempotency · last-write-wins by `updatedAt` | 🟡 In Progress |
+| ⚙️ | CI/CD pipeline | GitHub Actions · automated test & deploy | 🟢 Active |
+| 📖 | API documentation | Swagger / OpenAPI | 🟢 Active |
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sudhir4500&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7F77DD&icon_color=1D9E75&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhir4500&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F77DD&text_color=c9d1d9" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sudhir4500&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sudhir4500&theme=tokyonight&hide_border=true&background=0d1117&ring=7F77DD&fire=1D9E75&currStreakLabel=7F77DD)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sudhir4500&bg_color=0d1117&color=7F77DD&line=1D9E75&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -71,12 +100,16 @@ I'm a **Full-Stack Software Developer** from Nepal 🇳🇵, dedicated to crafti
 
 ### 🌱 What I'm Learning Right Now
 
-| Topic | Why |
+<div align="center">
+
+| 📚 Topic | 💡 Why |
 |---|---|
 | TypeScript async/await patterns | Writing production-grade, deeply understood async code |
 | GitHub Actions CI/CD | Automating test, build, and deploy pipelines |
 | Offline-first architecture | Robust sync for mobile apps with poor connectivity |
 | REST API design with Swagger | Clean, documented, consumer-friendly APIs |
+
+</div>
 
 ---
 
@@ -94,9 +127,11 @@ I'm a **Full-Stack Software Developer** from Nepal 🇳🇵, dedicated to crafti
 
 <div align="center">
 
-*Learning and growing is my passion — I'm always diving into new frameworks and cloud technologies. Feel free to reach out to explore web development or collaborate on exciting projects!*
+*"Learning and growing is my passion — always diving into new frameworks and cloud technologies.*
+*Feel free to reach out to collaborate on exciting projects!"*
 
-<!-- Footer wave -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+<br/>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:378ADD,50:1D9E75,100:7F77DD&height=120&section=footer)
 
 </div>
