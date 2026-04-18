@@ -61,8 +61,8 @@ I'm a **Full-Stack Software Developer** from Nepal 🇳🇵, passionate about cr
 
 <div align="center">
 
-| | Project | Stack | Status |
-|---|---|---|---|
+| | Project | Stack |
+|---|---|---|
 | 📝 | **Full-Stack Notes App** | Node.js · TypeScript · React Native · MongoDB |
 | 🔄 | Offline sync engine | clientId idempotency · last-write-wins by `updatedAt` |
 | ⚙️ | CI/CD pipeline | GitHub Actions · automated test & deploy |
