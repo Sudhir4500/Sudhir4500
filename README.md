@@ -25,20 +25,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
----
-
-### 🚀 Featured Projects
-
-[cite_start]Here are some of the projects I've built to explore modern frameworks and cloud technologies:
-
-* [cite_start]**NayakMart (E-Commerce Platform):** * A full-stack e-commerce build featuring frontend, backend API, database management, and media storage[cite: 65, 66].
-    * [cite_start]*Tech:* Next.js, Django REST Framework, PostgreSQL, Cloudinary, cPanel[cite: 65].
-* [cite_start]**Social Blog Platform:** * A platform supporting user-generated content and social sharing, deployed on modern cloud platforms[cite: 85].
-    * [cite_start]*Tech:* Next.js, Tailwind CSS, Git.
-* **AsiaBasket Platform:**
-    * [cite_start]E-commerce platform development focused on responsive product pages, navigation, and user-facing components[cite: 63].
-
----
 
 ### 📈 GitHub Stats
 
