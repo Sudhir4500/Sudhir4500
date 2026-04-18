@@ -89,7 +89,7 @@ I'm a **Full-Stack Software Developer** from Nepal 🇳🇵, passionate about cr
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sudhir4500&bg_color=0d1117&color=7F77DD&line=1D9E75&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sudhir4500&bg_color=0d1117&color=7F77DD&line=1D9E75&point=ffffff&area=true&hide_border=true)](https://github.com/sudhir4500/github-readme-activity-graph)
 
 </div>
 
