@@ -14,7 +14,6 @@
 
 I'm a **Full-Stack Software Developer** from Nepal 🇳🇵, dedicated to crafting scalable, user-focused web and mobile applications. I love building dynamic solutions that prioritize seamless user experiences — especially around **offline-first architecture**, clean REST APIs, and strongly-typed TypeScript code.
 
-- 🔭 Currently building a **Full-Stack Notes App** (Node.js + TypeScript · React Native · MongoDB) with offline sync and CI/CD
 - 🌱 Deepening expertise in **TypeScript async/await patterns** and **GitHub Actions workflows**
 - 🧠 I learn by understanding the *why* behind every design decision — SOLID, DRY, YAGNI, KISS
 - 💬 Ask me about **React Native**, **REST API design**, or **offline-first sync strategies**
@@ -57,14 +56,14 @@ I'm a **Full-Stack Software Developer** from Nepal 🇳🇵, dedicated to crafti
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sudhir4500&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhir4500&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sudhir4500&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
