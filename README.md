@@ -74,4 +74,7 @@ I'm a Software developer based in Nepal, focused on building production-quality 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sudhirsharma.com.np-378ADD?style=flat-square&logo=safari&logoColor=white)](https://sudhirsharma.com.np/)
 [![GitHub](https://img.shields.io/badge/GitHub-Sudhir4500-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/Sudhir4500)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
 </div>
